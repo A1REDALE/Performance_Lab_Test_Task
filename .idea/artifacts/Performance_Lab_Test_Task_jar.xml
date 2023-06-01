@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Performance_Lab_Test_Task:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Performance_Lab_Test_Task_jar</output-path>
+    <root id="archive" name="Performance_Lab_Test_Task.jar">
+      <element id="module-output" name="Performance_Lab_Test_Task" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
